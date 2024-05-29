@@ -60,10 +60,10 @@ Example Documentation Format
 Aspect	                    Repository 1 (.NET 4.6.1)	Repository 2 (.NET 6)
 Functional Changes	        Description	                Description
 Dependency Updates	        Description	                Description
-Performance Improvements	Description	                Description
-Code Quality	            Description	                Description
-Compatibility	            Description	                Description
-Security Improvements	    Description	                Description
+Performance Improvements	  Description	                Description
+Code Quality	              Description	                Description
+Compatibility	              Description	                Description
+Security Improvements	      Description	                Description
 
 Merging PRs from two different repositories, especially when they are based on different .NET versions (4.6.1 and 6), can be quite complex.
 Here are the steps and considerations to successfully merge these PRs:
@@ -140,7 +140,7 @@ Resolve conflicts and update dependencies.
 Test the merged code.
 Commit and push the changes.
 Create a new PR in the target repository.
-Would you like help with a specific step or more detailed guidance on any part of the process?
+
 
 Example code in dotnet 4.6.1 repo and dotnet 6 repo :
 Below are examples of a simple .NET application in two different repositories: one targeting .NET Framework 4.6.1 and the other targeting .NET 6. Both examples implement a basic console application that outputs a message to the console.
