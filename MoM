@@ -1,0 +1,24 @@
+Minutes of Meeting	
+Subject:	Review and Migration to Kubernetes of .NET 6 Console App
+Date:	
+Attendees:	App Team, Cloud Transformation Team (CTT)
+	
+Discussion Summary	
+Section	Details
+PR Review and Questions	The App Team agreed to close the PR once all the questions are answered on the first PR. The App Team agreed to review the first pull request (PR) regarding the migration of the .NET 6 console app to Kubernetes. The App Team will raise questions to better understand the migration requirements and overall structure. The Cloud Transformation Team (CTT) will provide responses to all questions on the PR to ensure clarity.
+Job Checkpoint Review	The first job checkpoint will be reviewed thoroughly before moving forward. The App Team will rely on CTT's support to address any queries that arise during this review.
+Production Deployment	Once the initial review and questions are resolved, the App Team will proceed to deploy the first job checkpoint in the production environment.
+Next PR Review (33 Jobs)	The App Team has tested 22 jobs out of 33 so far and is currently reviewing the test results. After the initial deployment, the App Team will begin reviewing the subsequent PR, which involves a set of 33 jobs related to the migration process.
+Deadline and Handover Request	CTT has communicated a deadline to complete the handover and move out by the end of November. CTT has requested the App Team to take over the migration process as soon as possible to ensure a smooth transition.
+	
+Action Items	
+App Team	Review the first PR and raise questions to gain a deeper understanding of the migration process.
+CTT	Respond to all PR questions raised by the App Team.
+App Team	Proceed with production deployment of the first job checkpoint once all questions are addressed.
+CTT	Ensure availability to assist in answering queries during the review of the 33-job PR.
+App Team	Expedite the takeover process to meet the November end deadline for handover.
+	
+Next Steps	
+	Set a follow-up meeting after the first job checkpoint is deployed to discuss any remaining issues.
+	Plan for the full review and deployment of the 33-job PR.
+	CTT to coordinate closely with the App Team for timely responses and transition assistance.
